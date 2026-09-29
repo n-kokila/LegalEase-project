@@ -1,0 +1,6 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = false
+# Dynamic port allocated via CLI (--server.port)
